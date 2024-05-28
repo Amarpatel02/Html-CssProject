@@ -431,19 +431,19 @@ iframe{
     }
 
     .img1{
-        height: 60vh;
+        height: 30vh;
         margin-top: -30px;
 
     }
 
     .img1 img{
-        height: 60vh;
+        height: 30vh;
         width: 55%;
     }
 
 .img1>div{
     width: 43%;
-    height: 60vh;
+    height: 30vh;
 
 }
 
@@ -453,7 +453,7 @@ iframe{
 
 .inner p{
     font-size: 2.2vw;
-    line-height: 15px;
+    line-height: 12px;
     margin: 0% 5% 3% 5%;
 
 }
@@ -461,17 +461,18 @@ iframe{
     height: 20px;
     width: 15vw;
     font-size: 2.1vw;
+    margin-top: -15vh;
 }
 
 .footer1{
     width: 90%;
-    height: 6rem;
+    height: 4rem;
     
 }
 
 .footer1 div{
    width: 22%;
-   height: 6rem;
+   height: 4rem;
 }
 
 .footer1 p{
@@ -481,7 +482,7 @@ iframe{
 
 
 .material-symbols-outlined{
-    font-size: 6vw;
+    font-size: 4vw;
 }
 
 
@@ -489,13 +490,13 @@ iframe{
 .page2{
     margin-top: 20px;
     width: 90%;
-    height: 50vh;
+    height: 25vh;
     margin-left: 5%;
 }
 
 .div1,.div2{
     width: 44%;
-    height: 24vh;
+    height: 12vh;
 
 }
  .div3{
@@ -516,7 +517,7 @@ iframe{
 }
 
 .page2 img{
-    height: 50vh;
+    height: 25vh;
     width: 100%;
 }
 
@@ -529,18 +530,18 @@ iframe{
 
 
 .page3{
-    height: 15vh;
+    height: 6vh;
     display: flex;
     
 }
 
 .page3 div{
     width: 100%;
-    height:2rem;
+    height:1.8rem;
 }
 
 .gallerySection h3{
-    margin-right: 20px;
+    margin-right: 1.5rem;
     font-size: 3vw;
 }
 
@@ -557,57 +558,57 @@ iframe{
     margin-left: 5%;
     margin-top: 20px;
     width: 90%;
-    height: 200px;
+    height: 25vh;
     display: flex;
 }
 
 
 .map, .details{
     width: 35%;
-    height: 200px;
+    height: 20vh;
 
 }
 
 .address{
     width: 26%;
-    height: 200px;
+    height: 20vh;
 }
 
 
 iframe{
     width: 100%;
-    height: 200px;
+    height: 20vh;
 }
 
 .details p{
     font-size: 2vw;
-    padding-bottom: 10px;
+    margin: 0%;
 }
 
 #margin{
-    padding: 20px;
+    padding: 1rem;
 }
 
 #msg{
-    padding-bottom: 30px;
+    padding-bottom: 2rem;
 }
 
 .details button{
     width: 12vw;
-    height: 20px;
+    height: 1rem;
+    margin-top: 0.5rem;
     font-size: 2vw;
 }
 #para1{
-    margin: 10px;
+    margin: 0.5rem;
     font-size: 2vw;
 
 }
 
 .page4footer{
     margin-left: 5%;
-    margin-top: 20px;
     width: 90%;
-    height: 30px;
+    height: 3.5vh;
 }
 
 .socialmedia i{
